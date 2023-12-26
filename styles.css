@@ -3,7 +3,7 @@
 	background-color: rgb(135, 206, 235);
 }
 p:first-child {
-      color: white;
+      color: rgb(255, 255, 255);
       background-color: black;
       padding: 10px;
     }
@@ -15,7 +15,7 @@ p:first-child {
     }
 
     p:last-child {
-      color: red;
+      color: rgb(255, 0, 0);
       padding: 10px;
     }
 
